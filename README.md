@@ -1,3 +1,5 @@
-# Simple Password Checker using React.js
+# Simple Password Checker App using React.js
 
-Developed by Oussama Outar
+
+
+## Developed by Oussama Outar
