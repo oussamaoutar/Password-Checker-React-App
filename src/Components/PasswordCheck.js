@@ -39,7 +39,7 @@ function PasswordCheck() {
         setCheckboxChange(!checkboxChange)
     }
     const handleRegisterClick = () => {
-        alert('À programmer ultérieurement - Oussama Outar')
+        alert('À programmer ultérieurement')
     }
 
     // functions to check password requirements
